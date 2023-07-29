@@ -1,2 +1,16 @@
 # RockPaperScissors
-This repository contains the code for a simple game of Rock, Paper, Scissors. The game is written in Python. The game is a classic two-player game where each player chooses one of three objects: rock, paper, or scissors. The objects are played against each other in a rock-paper-scissors fashion.
+This repository contains the code for a simple Rock, Paper, Scissors game written in Python.
+
+# How to Play
+To play the game, simply run the rock-paper-scissors.py file. You will be prompted to choose your hand (rock, paper, or scissors). The computer will then choose its hand randomly. The winner of the round is determined by the following rules:
+
+  Rock beats Scissors.
+  Paper beats Rock.
+  Scissors beats Paper.
+
+# Requirements
+keyboard==0.13.5
+
+## License
+
+This project is licensed under the MIT License.
